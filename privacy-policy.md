@@ -15,5 +15,5 @@ The app does not show ads and does not sell or share user data with third partie
 If you contact us for support, we may receive the information you choose to provide.
 
 Contact:
-ضع_ايميلك_هنا
+
 mahfodqr@gmail.com
